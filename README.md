@@ -1,10 +1,10 @@
 # <center> Дипломный проект Костылевой Елены Александровны для онлайн-школы SkillFactory </center>
-[Дипломный проект](https://github.com/aicelena/Project)
+[Дипломный проект](https://github.com/aicelena/Diplom_project)
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/aicelena/Project/README.md#Описание-проекта)  
-[2. Задачи](https://github.com/aicelena/Project/README.md#Задачи:)  
-[3. Краткая информация о данных](https://github.com/aicelena/Project/README.md#Краткая-информация-о-данных)  
+[1. Описание проекта](https://github.com/aicelena/Diplom_project/README.md#Описание-проекта)  
+[2. Задачи](https://github.com/aicelena/Diplom_project/README.md#Задачи:)  
+[3. Краткая информация о данных](https://github.com/aicelena/Diplom_project/README.md#Краткая-информация-о-данных)  
 
 
 ### <center>Описание проекта</center>    
@@ -54,7 +54,7 @@ active — физическая активность
 [Файлы с данными](https://www.kaggle.com/competitions/yap15-heart-diseases-predictions)
   
 
-:arrow_up:[к оглавлению](https://github.com/aicelena/Project/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/aicelena/Diplom_project/README.md#Оглавление)
 
 
 Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами
