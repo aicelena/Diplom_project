@@ -20,6 +20,9 @@
 
 
 ### <center>Краткая информация о данных</center>
+
+[Файлы с данными на Kaggle](https://www.kaggle.com/competitions/yap15-heart-diseases-predictions)
+
 ### Признаки:
 
 id — индекс пациента
@@ -50,9 +53,6 @@ active — физическая активность
 
 сardio — риск возникновения сердечно-сосудистых заболеваний
 
-
-[Файлы с данными](https://www.kaggle.com/competitions/yap15-heart-diseases-predictions)
-  
 
 :arrow_up:[к оглавлению](https://github.com/aicelena/Diplom_project/README.md#Оглавление)
 
